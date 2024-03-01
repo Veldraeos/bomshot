@@ -1,7 +1,7 @@
-# BOMShot
+# BOMshot
 
 ## Summary
-BOMShot is a python script for Fusion 360 to generate an Excel Spreadsheet Bill of Materials with component image captures and optional .STEP file export
+BOMshot is a python script for Fusion 360 to generate an Excel Spreadsheet Bill of Materials with component image captures and optional .STEP file export
 
 The spreadsheet generated includes a cover sheet with project details and company logo that is imported from the script directory resources folder
 
@@ -28,7 +28,7 @@ Exported files (images and STEP) are stored hierarchically by component assembly
 4. Click + symbol next to My Scripts
    
    ![image](https://github.com/Veldraeos/bomshot/assets/75970270/9abc6385-ef17-4261-9cff-b68d2e1a8068)
-6. Navigate to the directory containing BOMShot.py (where you cloned this repository) and click Select Folder
+6. Navigate to the directory containing BOMshot.py (where you cloned this repository) and click Select Folder
    
    ![image](https://github.com/Veldraeos/bomshot/assets/75970270/670e8866-43c2-4f76-ac10-eb8e3153efb2)
 8. You should now see the script under My Scripts
@@ -37,7 +37,7 @@ Exported files (images and STEP) are stored hierarchically by component assembly
 1. In Fusion 360 navigate to UTILITIES tab, then click ADD-INS toolbar button
    
    ![image](https://github.com/Veldraeos/bomshot/assets/75970270/c97c8425-a9da-4a00-ae37-5e79e6e418bb)
-3. Select BOMShot from My Scripts section
+3. Select BOMshot from My Scripts section
 4. Click Run
 5. Input relevant project details and select whether to export .STEP files
 6. Click OK
