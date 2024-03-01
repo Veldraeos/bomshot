@@ -3,7 +3,7 @@
 ## Summary
 BOMShot is a python script for Fusion 360 to generate an Excel Spreadsheet Bill of Materials with component image captures and optional .STEP file export
 
-The spreadsheet generated includes a cover sheet with project details and company logo that is imported from the execution directory resources folder
+The spreadsheet generated includes a cover sheet with project details and company logo that is imported from the script directory resources folder
 
 Exported files (images and STEP) are stored hierarchically by component assembly
 
